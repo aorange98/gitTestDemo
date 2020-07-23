@@ -8,7 +8,9 @@
 export default {
   name: 'navbar',
   data(){
-    return {}
+    return {
+      navbar:['返回','保存']
+    }
   },
   components: {},
   methods: {}
