@@ -16,7 +16,9 @@ class GitAPerson {
         this.a = 100
         console.log('xixixixi')
     }
-    
+    gitA(){
+        this.b = 200
+    }
 }
 
 new GitAPerson()
