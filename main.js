@@ -19,6 +19,9 @@ class GitAPerson {
     gitA(){
         this.b = 200
     }
+    gitA2(){
+        
+    }
 }
 
 new GitAPerson()
