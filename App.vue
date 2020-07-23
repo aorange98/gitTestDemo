@@ -13,12 +13,13 @@ export default {
     data() {
         return {
             a:10,
-            gitB1:[1,2,3,4,5],
+            gitB1:[15],
             gitB2:{name:"hanhan"}
         }
     },
     components: {
-        chengxuyuanA
+        chengxuyuanA,
+        lalaa
     },
     methods: {}
 }
