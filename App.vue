@@ -17,7 +17,9 @@ export default {
             gitB2:{name:"hanhan"}
         }
     },
-    components: {},
+    components: {
+        chengxuyuanA
+    },
     methods: {}
 }
 </script>
